@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robbysatya.github.io/sitemap.xml
